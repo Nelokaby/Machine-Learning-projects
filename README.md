@@ -1,4 +1,4 @@
-# Machine-Learning-projects
+# Head pose Estimation
 
 ## firstly:
 #### 1- preparing data for model training ( we used MediaPipe and CV2 libraries for extracting points and for face detection from pictures).
